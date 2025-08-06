@@ -44,7 +44,7 @@
    ```
 
 3. **Configurar OpenRouter**
-   - Crear cuenta en [OpenRouter](https://openrouter.ai/)
+   - Crear una cuenta en [OpenRouter](https://openrouter.ai/)
    - Generar tu API Key
    - Actualizar el archivo .env y agregar:
 
@@ -62,22 +62,24 @@
    # EJecutar en la terminal
       npm run dev
    ```
-
+   
 ---
 
-## 🏗️ Arquitectura del Proyecto
+## 📁 Arquitectura del Proyecto
 
 ### 📦 Estructura General
 ```
 EDX_NucleusIA/
-├── public/
+├── node_modules/
 ├── src/
 │   ├── app.js
-│   ├── components/
 │   └── styles/
 ├── .env
 ├── index.html
-└── package.json
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.ts
 
 ```
 
