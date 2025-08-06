@@ -17,7 +17,7 @@
     </h1>
 
     <!-- Formulario principal -->
-    <form class="flex flex-col space-y-4" role="search" aria-labelledby="form-title">
+    <form id="form" class="flex flex-col space-y-4" role="search" aria-labelledby="form-title">
       <label id="form-title" for="prompt" class="text-white font-bold text-2xl text-center">
         ¿Cómo puedo ayudarte?
       </label>
@@ -28,7 +28,7 @@
           placeholder="Pregunta lo que quieras" aria-label="Caja de texto para escribir tu pregunta" required />
 
         <!-- Botón de envío (ajustado para clic y accesibilidad) -->
-        <button type="submit" aria-label="Enviar"
+        <button id="submit" type="submit" aria-label="Enviar"
           class="absolute top-1/2 right-4 -translate-y-1/2 text-purple-700 hover:text-purple-900 transition-colors">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
             stroke="currentColor" class="w-6 h-6">
@@ -42,7 +42,7 @@
     <!-- Contenedor de resultados/respuesta -->
     <div id="app" class="text-white py-10 whitespace-pre-wrap text-lg"></div>
   </div>
-  <script type="module" src="/src/main.js"></script>
+  <script type="module" src="/src/app.js"></script>
 </body>
 
 </html>
