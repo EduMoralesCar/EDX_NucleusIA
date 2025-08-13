@@ -13,7 +13,6 @@
     meta-llama/llama-3.3-70b-instruct:free
     ```
 - **🔐 Configuración con .env**: Seguridad y flexibilidad para el uso de tokens
-- **🧪 Pruebas visuales**: Capturas de funcionamiento incluidas
 
 ---
 
