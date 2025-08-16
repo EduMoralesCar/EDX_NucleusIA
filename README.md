@@ -111,7 +111,7 @@ EDX_NucleusIA/
 
 ---
 
-##🧪 Roadmap y Mejoras Futuras
+## 🧪 Roadmap y Mejoras Futuras
 - Integración con otros proveedores de IA (ej: OpenAI, Google AI)
 - Soporte multilenguaje para usuarios
 - Interfaz más avanzada y personalizable
@@ -126,7 +126,8 @@ Desarrollado por [EduMoralesCar](https://github.com/EduMoralesCar).
 
 ---
 
-##📄 Licencia
+## 📄 Licencia
+
 Este proyecto es de código abierto bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ---
