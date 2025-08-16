@@ -63,9 +63,11 @@
    ```bash
    # EJecutar en la terminal
       npm run dev
-   # Una vez ejecutado se lanza un servidor local ejemplo:
-     Local: http://localhost:5173/
    ```
+
+5. Una vez ejecutado se lanza un servidor local:
+   
+🌐 Acceso local: [http://localhost:5173/](http://localhost:5173/)   
    
 ---
 
