@@ -90,6 +90,43 @@ EDX_NucleusIA/
 ```
 
 ---
+
+## 🤝 Contribución
+
+¿Te gustaría aportar ideas, mejorar el código o expandir funcionalidades? ¡Bienvenido!
+
+1. Haz un fork del repositorio.
+2. Crea una rama nueva: git checkout -b feature/nueva-funcionalidad
+3. Sube tus cambios y crea un Pull Request.
+4. Explica brevemente tu aporte.
+
+---
+
+## Tecnologías Usadas
+
+- JavaScript / HTML / CSS / TypeScript
+- Vite
+- TailwindCSS
+- OpenRouter API
+
+---
+
+##🧪 Roadmap y Mejoras Futuras
+- Integración con otros proveedores de IA (ej: OpenAI, Google AI)
+- Soporte multilenguaje para usuarios
+- Interfaz más avanzada y personalizable
+- Guardado de conversaciones
+- Test unitarios y documentación técnica
+
+---
+
 ## 👨‍💻 Autor
 
 Desarrollado por [EduMoralesCar](https://github.com/EduMoralesCar).
+
+---
+
+##📄 Licencia
+Este proyecto es de código abierto bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+---
