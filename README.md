@@ -6,14 +6,16 @@
 
 ### 🎯 Características Principales
 
-- **⚡ Vite + Vanilla JS**: Configuración rápida y eficiente para desarrollo web
-- **🎨 TailwindCSS**: Estilos modernos y responsivos fácilmente perzonalizables
+- **⚡ Vite + Vanilla JS**: Configuración rápida y eficiente para desarrollo web.
+- **🎨 TailwindCSS**: Estilos modernos y responsivos fácilmente perzonalizables.
 - **🧠 OpenRouter API**: Conexión directa con modelos de lenguaje como:
   
     ```bash
     meta-llama/llama-3.3-70b-instruct:free
     ```
-- **🔐 Configuración con .env**: Seguridad y flexibilidad para el uso de tokens
+- **🔐 Configuración con .env**: Seguridad y flexibilidad para el uso de tokens.
+- **📈 Escalable y modular:** Pensado para expandirse con nuevos modelos, funcionalidades o integraciones.
+- **💡 Código abierto y educativo:** Ideal para aprender sobre IA conversacional y arquitectura web moderna.
 
 ---
 
