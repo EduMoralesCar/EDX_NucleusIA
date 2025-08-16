@@ -1,12 +1,13 @@
 ## 📖 Descripción del Proyecto
 
-**EDX_NucleusIA** es una aplicación web experimental que integra inteligencia artificial mediante el uso de OpenRouter y modelos de lenguaje avanzados. Desarrollado con Vite, TailwindCSS y JavaScript Vanilla, este proyecto busca ofrecer una experiencia interactiva y ligera para explorar Consultas y Dudas tipo ChatGPT.
+**EDX_NucleusIA** es una aplicación web experimental que integra inteligencia artificial mediante el uso de OpenRouter y modelos de lenguaje avanzados. Está desarrollada con Vite, TailwindCSS y JavaScript, ofreciendo una base moderna y escalable para crear asistentes conversacionales inteligentes.
 
+---
 
 ### 🎯 Características Principales
 
 - **⚡ Vite + Vanilla JS**: Configuración rápida y eficiente para desarrollo web
-- **🎨 TailwindCSS**: Estilos modernos y responsivos
+- **🎨 TailwindCSS**: Estilos modernos y responsivos fácilmente perzonalizables
 - **🧠 OpenRouter API**: Conexión directa con modelos de lenguaje como:
   
     ```bash
