@@ -23,8 +23,8 @@
 
 ### Prerrequisitos
 
-- **Node.js v22.14.0** 
-- **Visual Studio Code** (recomendado)
+- **[Node.js](https://nodejs.org/es) v22.14.0** 
+- **[Visual Studio Code](https://code.visualstudio.com/)** (recomendado)
 
 ### Pasos de Ejecución
 
@@ -48,12 +48,12 @@
 3. **Configurar OpenRouter**
    - Crear una cuenta en [OpenRouter](https://openrouter.ai/)
    - Generar tu API Key
-   - Actualizar el archivo .env y agregar:
+   - Actualizar el archivo `.env` y agregar:
 
    ```bash
       OPENROUTER_API_KEY = tu_token_aqui
    ```
-   - En app.js, configurar el models (opcional) en caso de que quieras utilizar tu propio Models:
+   - Configura el modelo en `app.js` si quieres personalizarlo:
    
    ```bash
       model: 'meta-llama/llama-3.3-70b-instruct:free'
@@ -63,6 +63,8 @@
    ```bash
    # EJecutar en la terminal
       npm run dev
+   # Una vez ejecutado se lanza un servidor local ejemplo:
+     Local: http://localhost:5173/
    ```
    
 ---
