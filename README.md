@@ -76,17 +76,18 @@
 ### 📦 Estructura General
 ```
 EDX_NucleusIA/
-├── node_modules/
-├── src/
-│   ├── app.js
-│   └── styles/
-├── .env
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-└── vite.config.ts
-
+├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 node_modules/ 🚫 (auto-hidden)
+├── 📁 src/
+│   ├── 📄 app.js
+│   └── 🎨 style.css
+├── 🔒 .env 🚫 (auto-hidden)
+├── 🚫 .gitignore
+├── 📖 README.md
+├── 🌐 index.html
+├── 📄 package-lock.json
+├── 📄 package.json
+└── 📄 vite.config.ts
 ```
 
 ---
